@@ -40,3 +40,5 @@ brew install composer
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
+
+Custom theme: https://github.com/cdbusby/cdbusby-zsh-theme
