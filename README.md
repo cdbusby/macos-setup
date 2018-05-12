@@ -18,20 +18,11 @@ brew install node
 *PHP*
 
 ```
-brew tap homebrew/dupes
-brew tap homebrew/versions
-brew tap homebrew/homebrew-php
-
-brew install php71
-
-## To use PHP7.1 on CLI, add this to .bash_profile
-export PATH="$(brew --prefix homebrew/php/php71)/bin:$PATH"
-```
+brew install php71```
 
 *Composer*
 
 ```
-brew install mcrypt php71-mcrypt
 brew install composer
 ```
 
