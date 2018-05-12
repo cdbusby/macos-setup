@@ -18,7 +18,8 @@ brew install node
 *PHP*
 
 ```
-brew install php71```
+brew install php71
+```
 
 *Composer*
 
